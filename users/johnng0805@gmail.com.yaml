@@ -1,0 +1,13 @@
+name: 'John Nguyen'
+super: true
+id: 766ca345-3b1a-4326-8e96-d767d7f14250
+password_hash: $2y$10$rpwqYbI2kbjAbbyAmDR8XuPaYpy7ptXYn/jSQAeHbg6guWitSbjsW
+preferences:
+  collections:
+    wallpaper:
+      columns:
+        - title
+        - author
+        - slug
+        - date
+        - wallpaper_image

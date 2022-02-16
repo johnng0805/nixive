@@ -1,0 +1,10 @@
+title: Wallpaper
+template: wallpaper/show
+layout: layout
+revisions: false
+route: 'wallpaper/{year}-{month}-{date}/{slug}'
+date: true
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private
